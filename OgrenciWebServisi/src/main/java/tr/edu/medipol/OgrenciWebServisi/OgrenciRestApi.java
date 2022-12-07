@@ -18,7 +18,7 @@ public class OgrenciRestApi {
 		OGRENCILER.add("Jane");
 		OGRENCILER.add("Joe");
 		OGRENCILER.add("Henry");
-
+		
 	}
 	
 	// GET - veri almak -> kısaca
